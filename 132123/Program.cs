@@ -1,0 +1,9 @@
+﻿
+namespace huy
+{
+    class pizda
+    {
+
+    }
+}
+
